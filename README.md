@@ -19,7 +19,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the bot tab and generate a bot account for the application
 - Click the "Reset Token" button to generate a token (if you have 2fa enabled, you'll need your code)
 - Copy the token to your clipboard
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github/hackermondev/discord-active-developer-badge)](https://replit.com/new/github/hackermondev/discord-active-developer-badge)
+- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/badge/github/crisomalke/get-active-developer-badge)](https://replit.com/new/github/crisomalke/get-active-developer-badge)
   - You will be redirected to Replit, you might have to create an account (you can Register with Google)
 - Wait for the repo has finished cloning and the repl to full connect
 - Click the green "Run" button at the top
@@ -35,11 +35,11 @@ If you're still learning and want the badge, follow the instructions below!
 - Congrats on that shiny new badge 
 
 
-If you're encounting any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join (this)[https://discord.gg/M5MSE9CvNM] server and ping me in the #general channel.
+If you're encounting any issues, [create a new GitHub issue](https://github.com/crisomalke/get-active-developer-badge/issues) or join (this)[https://dscolink.ga/lab] server and ping me in the #general channel.
 
 ### If you're unable to get the badge after waiting 24 hours
 This is a known issue that Discord is working on fixing. There should be a fix out by Monday [11/14/22] or Tuesday [11/15/22]
 ![image](https://i.imgur.com/978LAUB.png)
 
 # Star the repo!!!
-If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
+If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://dscolink.ga/lab
